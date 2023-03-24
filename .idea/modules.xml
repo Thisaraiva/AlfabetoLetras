@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AlfabetoLetras.iml" filepath="$PROJECT_DIR$/.idea/AlfabetoLetras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LetraA/LetraA.iml" filepath="$PROJECT_DIR$/LetraA/LetraA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LetraA2/LetraA2.iml" filepath="$PROJECT_DIR$/LetraA2/LetraA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LetrasGenerico/LetrasGenerico.iml" filepath="$PROJECT_DIR$/LetrasGenerico/LetrasGenerico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LetrasGeral/LetrasGeral.iml" filepath="$PROJECT_DIR$/LetrasGeral/LetrasGeral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LetrasNome/LetrasNome.iml" filepath="$PROJECT_DIR$/LetrasNome/LetrasNome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LetrasNomeRef/LetrasNomeRef.iml" filepath="$PROJECT_DIR$/LetrasNomeRef/LetrasNomeRef.iml" />
+    </modules>
+  </component>
+</project>
